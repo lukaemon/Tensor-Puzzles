@@ -258,3 +258,4 @@ def run_test(fn):
         <source src="https://openpuppies.com/mp4/%s.mp4"  type="video/mp4">
     </video>
     """%(random.sample(pups, 1)[0]))
+
